@@ -1,7 +1,9 @@
 # Bug-Report
 Repositório para reportar Bugs
 
-#O Login usado para fazer os teste será escrito da seguinte forma: o começo + máscara (exemploxxx@teste.com), e a senha apenas a máscara, #dessa forma mantendo o sigilo do site em que foi feito os teste (caso seja necessário a reprodução do teste, deixar um comentário que #entrarei em contato para mais informação).  
+#O Login usado para fazer os teste será escrito da seguinte forma: o começo + máscara (exemploxxx@teste.com), e a senha apenas a máscara,
+#dessa forma mantendo o sigilo do site em que foi feito os teste (caso seja necessário a reprodução do teste, deixar um comentário que
+#entrarei em contato para mais informação).  
 
 @Classificação da Severidade dos Bugs:
   - S1 - Crítico #b60205 vermelho
