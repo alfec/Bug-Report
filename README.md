@@ -14,7 +14,7 @@ Repositório para reportar Bugs
   - P3 - Média #ffff00 amarelo
   - P4 - Baixa #1d76db azul claro
   
-  @Tipo do report
+  @Tipo do report:
     - Melhoria #0000cc azul
     - Bug #ff0000 vermelho
     - Resumo do bug #e5b8fc
